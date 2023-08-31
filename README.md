@@ -76,6 +76,6 @@ pip install selenium
       git clone https://github.com/kamyshnikovStepan1999/Avito
 
 
-6.	Перейдите в папку tasks и запустите тесты
+6.	Перейдите в папку Задания и запустите тесты
    
       python Задание 2
