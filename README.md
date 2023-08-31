@@ -78,4 +78,4 @@ pip install selenium
 
 6.	Перейдите в папку tasks и запустите тесты
    
-      python test.py
+      python Задание 2
